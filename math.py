@@ -1,5 +1,5 @@
 def add(x,y):
-  return None
+  return x+y
 #chander should do
 def mul(x,y):
   return None
